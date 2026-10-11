@@ -39,6 +39,7 @@ public class ColorChange : MonoBehaviour
         if (health == 0)
         {
             gameObject.SetActive(false);
+
         }
             else if (health == 3)
             {
